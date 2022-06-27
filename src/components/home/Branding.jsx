@@ -5,17 +5,17 @@ const Branding = () => {
     {
       id: "01",
       heading: "Digital Branding",
-      desc: "Lorem ipsum dolor sit amet, provid adipisicing elit. Aliquam dolorum nu illo similique! Impedit.",
+      desc: "How to use React Hooks to create a Counter Component.",
     },
     {
       id: "02",
       heading: "Team Management",
-      desc: "Lorem ipsum dolor sit amet, provid adipisicing elit. Aliquam dolorum nu illo similique! Impedit.",
+      desc: "How to use React Hooks to create a Counter Component",
     },
     {
       id: "03",
       heading: "Creative Mind",
-      desc: "Lorem ipsum dolor sit amet, provid adipisicing elit. Aliquam dolorum nu illo similique! Impedit.",
+      desc: "How to use React Hooks to create a Counter Component",
     },
   ]
   return (

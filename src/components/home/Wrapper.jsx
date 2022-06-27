@@ -5,7 +5,7 @@ const Wrapper = () => {
     {
       title: "LOOKING FOR EXCLUSIVE SERVICES?",
       heading: "Get The Best For Your Business",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc: "How to use React Hooks to create a Counter Component.",
     },
   ]
   return (

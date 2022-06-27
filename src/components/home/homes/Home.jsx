@@ -23,7 +23,7 @@ const Home = () => {
               <i className='fab fa-pinterest pinterest'></i>
               <i className='fab fa-dribbble dribbble'></i>
             </div>
-            <p>Lorem ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <p>I'm a Frontend Developer  with an experience in managing and growing developer communities around the world</p>
             <button className='primary-btn'>Contact Us</button>
           </div>
         </div>
